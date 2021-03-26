@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorOptionsView">
+        <attr name="buttonType" format="string" localization="suggested" />
+        <attr name="titleText" format="string" localization="suggested" />
+        <attr name="subtitleText" format="string" localization="suggested" />
+
+        <attr name="resourceId" format="integer" />
+    </declare-styleable>
+
+</resources>

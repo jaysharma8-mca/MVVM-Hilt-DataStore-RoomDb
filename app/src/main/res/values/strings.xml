@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Code Challenge Android</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? <b>Register Now</b></string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="register_now">Register</string>
+    <string name="already_have_an_account_login_now">Already have an account? <b>Login Now</b></string>
+    <string name="john_doe">John Doe</string>
+    <string name="name">Full Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">ID</string>
+    <string name="logout">Logout</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="toast_error">Invalid username or password</string>>
+    <string name="toast_success">Login Successful</string>>
+    <string name="toast_login">User Logged Out</string>
+    <string name="toast_registration">Registration Successful</string>
+</resources>
